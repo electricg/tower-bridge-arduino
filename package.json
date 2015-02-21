@@ -1,0 +1,15 @@
+{
+  "name": "tower-bridge-arduino",
+  "version": "1.0.0",
+  "description": "Tower Bridge run by Arduino",
+  "main": "arduino.js",
+  "dependencies": {
+    "johnny-five": "^0.8.42",
+    "socket.io-client": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "arduino.js"
+  },
+  "author": "Giulia Alfonsi"
+}
